@@ -37,4 +37,23 @@ cd AI_SMART_ATTENDANCE-SYSTEM
    
   📸 Screenshots 
   Training Process
-  
+  ## 📸 Screenshots
+### Training Process
+Ye collage me training ke saare steps dikhaye gaye hain. System dataset se faces padhkar LBPH recognizer ko train karta hai aur `trainer/trainer.yml` file generate hoti hai.
+
+![Training Collage](screenshots/a.47.jpg)
+## 📸 Screenshots
+### Training Process
+
+**1. Dataset Capture**
+![Dataset](screenshots/1.jpg)
+
+**2. Training Start**
+![Training Start](screenshots/2.jpg)
+
+**3. Training Running**
+![Training Running](screenshots/3.jpg)
+
+**4. Training Complete**
+![Training Complete](screenshots/4.jpg)
+
