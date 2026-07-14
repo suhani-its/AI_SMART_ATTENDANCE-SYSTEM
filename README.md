@@ -50,5 +50,18 @@ Training ke saare steps niche dikhaye gaye hain. System dataset se faces padhkar
 
 **4. Student ID and Name**
 ![Student Details](screenshots/st.id%20and%20st.name%20-%20Copy.png)
-
+📁 Project Structure
+AI_SMART_ATTENDANCE-SYSTEM
+├── dataset/              # Captured face images
+├── trainer/              # Trained model file trainer.yml
+├── attendance/           # Attendance CSV files
+├── screenshots/          # Project screenshots
+├── check_face.py         # Main recognition file
+├── capture_dataset.py    # For capturing new faces
+└── train.py              # For training the model
+🚀 Future Scope
+Cloud database integration
+Email/SMS notification to parents
+Web dashboard for attendance
+Mobile app support
 
