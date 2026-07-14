@@ -35,25 +35,20 @@ cd AI_SMART_ATTENDANCE-SYSTEM
     ```bash```
    python check_face.py
    
-  📸 Screenshots 
-  Training Process
   ## 📸 Screenshots
 ### Training Process
-Ye collage me training ke saare steps dikhaye gaye hain. System dataset se faces padhkar LBPH recognizer ko train karta hai aur `trainer/trainer.yml` file generate hoti hai.
-
-![Training Collage](screenshots/a.47.jpg)
-## 📸 Screenshots
-### Training Process
+Training ke saare steps niche dikhaye gaye hain. System dataset se faces padhkar LBPH recognizer ko train karta hai aur `trainer/trainer.yml` file generate hoti hai.
 
 **1. Dataset Capture**
-![Dataset](screenshots/1.jpg)
+![Dataset Capture](screenshots/Screenshot%20%2823%29.png)
 
-**2. Training Start**
-![Training Start](screenshots/2.jpg)
+**2. Open Camera**
+![Open Camera](screenshots/open%20camera.png)
 
-**3. Training Running**
-![Training Running](screenshots/3.jpg)
+**3. Face Recognition**
+![Face Recognition](screenshots/recognition.png)
 
-**4. Training Complete**
-![Training Complete](screenshots/4.jpg)
+**4. Student ID and Name**
+![Student Details](screenshots/st.id%20and%20st.name%20-%20Copy.png)
+
 
