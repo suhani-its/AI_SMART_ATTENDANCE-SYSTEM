@@ -49,8 +49,8 @@ Training ke saare steps niche dikhaye gaye hain. System dataset se faces padhkar
 **4. Student ID and Name**
 ![Student Details](screenshots/st.id%20and%20st.name%20-%20Copy.png
 
-CONCLUSION
+**CONCLUSION👉🏻**
 The AI Smart Attendance System is a face recognition-based solution designed to automate attendance tracking.
 Using Python, OpenCV, and machine learning, it captures faces, recognizes individuals, and logs attendance efficiently.
 This project showcases the integration of computer vision and automation for real-world applications, reducing manual effort and enhancing accuracy.
-*Future Scope:* Integrates with college systems, mobile app, multi-camera support 📈
+
