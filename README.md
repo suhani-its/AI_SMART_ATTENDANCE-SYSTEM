@@ -1,5 +1,4 @@
 # AI Smart Attendance System 🚀
-
 A Face Recognition based Smart Attendance System built using Python, OpenCV, and LBPH algorithm. This system automatically marks attendance using face recognition and stores it in a CSV file.
 
 ## 📌 Features
@@ -33,8 +32,7 @@ cd AI_SMART_ATTENDANCE-SYSTEM
    python train_model.py
 5. Run attendance system
     ```bash```
-   python check_face.py
-   
+   python check_face.py  
   ## 📸 Screenshots
 ### Training Process
 Training ke saare steps niche dikhaye gaye hain. System dataset se faces padhkar LBPH recognizer ko train karta hai aur `trainer/trainer.yml` file generate hoti hai.
