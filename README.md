@@ -56,18 +56,7 @@ The AI Smart Attendance System is a face recognition-based solution designed to 
 Using Python, OpenCV, and machine learning, it captures faces, recognizes individuals, and logs attendance efficiently.
 This project showcases the integration of computer vision and automation for real-world applications, reducing manual effort and enhancing accuracy.
 
-Tuned it a bit. Want me to add anything else?
-
-📁 Project Structure
-AI_SMART_ATTENDANCE-SYSTEM
-├── dataset/              # Captured face images
-├── trainer/              # Trained model file trainer.yml
-├── attendance/           # Attendance CSV files
-├── screenshots/          # Project screenshots
-├── check_face.py         # Main recognition file
-├── capture_dataset.py    # For capturing new faces
-└── train.py              # For training the model
-🚀 Future Scope
+🚀 FUTURE SCOPE
 Cloud database integration
 Email/SMS notification to parents
 Web dashboard for attendance
