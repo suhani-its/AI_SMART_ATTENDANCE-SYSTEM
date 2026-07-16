@@ -47,7 +47,7 @@ Training ke saare steps niche dikhaye gaye hain. System dataset se faces padhkar
 ![Face Recognition](screenshots/recognition.png)
 
 **4. Student ID and Name**
-![Student Details](screenshots/student_details.png - Copy.png)
+![Student Details](screenshots/student_details.png)
 
 **CONCLUSION👉🏻**
 The AI Smart Attendance System is a face recognition-based solution designed to automate attendance tracking.
